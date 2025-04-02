@@ -1,0 +1,7 @@
+name: DbcCompacter
+version: '1.0'
+main: me.joaomanoel.d4rkk.main
+commands:
+  compactar:
+    description: Compacta todos os itens semelhantes ao que você está segurando.
+    usage: /compactar
